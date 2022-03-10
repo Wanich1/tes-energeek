@@ -1,0 +1,43 @@
+.bg-login{
+    background-color: #eaeef3 !important;
+    position: relative;
+}
+
+.bg-data{
+    background-color: #eaeef3;
+}
+
+
+.img-left{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    /* max-height: 50%; */
+}
+
+.login-box-msg{
+    font-size: calc(1.275rem + .3vw)!important
+}
+
+.navbar{
+    border-bottom: 1px solid #dee2e6;
+    padding: 0;
+}
+
+.nav-item{
+    padding: 10px;
+    font-size: 1rem;
+    color: black;
+}
+
+.bg-secondary{
+    background-color: silver !important;
+    color: rgb(22, 22, 22) !important;
+}
+
+.detail-item{
+    color: black !important;
+    font-weight: bold;
+    font-size: 2rem;
+    margin: 0;
+}
